@@ -17,6 +17,9 @@
     "sqlite3": "^4.0.6"
   },
   "devDependencies": {
+    "bcryptjs": "^2.4.3",
     "nodemon": "^1.18.10"
-  }
+  },
+  "repository": "https://github.com/RyanNFreeman/webauth-i-guided.git",
+  "license": "MIT"
 }
